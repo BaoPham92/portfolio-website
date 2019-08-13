@@ -2376,6 +2376,8 @@ body.homepage #header:after {
   content: "";
   background: #1c0920;
   background-image: url("../../images/header-computer-sml.png");
+  background-attachment: fixed;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
