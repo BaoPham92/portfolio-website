@@ -2375,7 +2375,7 @@ body.homepage #header h1 {
 
 body.homepage #header:after {
   content: "";
-  background-color: #;
+  background-color: black;
   display: block;
   position: absolute;
   left: 0;
